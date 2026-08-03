@@ -1,0 +1,19 @@
+{
+  "experiment": "D1-E1",
+  "model": "gaussian against-independence (independent Y_i)",
+  "N": 4,
+  "rho": 0.7950600976206501,
+  "E_cen": 2.0,
+  "Gammas": [
+    0.2,
+    12.0,
+    32
+  ],
+  "ns": [
+    100,
+    1500,
+    15
+  ],
+  "eps": 0.05,
+  "method": "saddlepoint (Lugannani-Rice) + plain-MC"
+}

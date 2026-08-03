@@ -1,0 +1,19 @@
+{
+  "experiment": "D1-E2",
+  "model": "gaussian AI",
+  "rho": 0.7950600976206501,
+  "levels": [
+    2,
+    3,
+    4,
+    6,
+    8,
+    12,
+    16
+  ],
+  "schemes": [
+    "optimal Gaussian IB",
+    "uniform quantizer",
+    "Lloyd-Max quantizer"
+  ]
+}

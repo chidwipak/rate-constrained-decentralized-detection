@@ -1,0 +1,19 @@
+{
+  "experiment": "D1-N2",
+  "model": "single-source relay",
+  "rho": 0.9,
+  "Ns": [
+    20,
+    50,
+    100,
+    200,
+    500,
+    1000
+  ],
+  "C": 1.0,
+  "families": [
+    "ER",
+    "BA",
+    "WS"
+  ]
+}

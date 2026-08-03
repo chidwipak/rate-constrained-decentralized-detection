@@ -1,0 +1,25 @@
+{
+  "experiment": "D1-E3",
+  "N": 6,
+  "rho": 0.7950600976206501,
+  "Gamma_target": 3.0,
+  "topologies": [
+    "complete",
+    "ring",
+    "path",
+    "star",
+    "grid 2x3",
+    "tree",
+    "Erdos-Renyi",
+    "Barabasi-Albert",
+    "Watts-Strogatz",
+    "directed ring"
+  ],
+  "k": 0,
+  "ns": [
+    150,
+    1500,
+    10
+  ],
+  "eps": 0.05
+}

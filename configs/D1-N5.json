@@ -1,0 +1,20 @@
+{
+  "experiment": "D1-N5",
+  "grid": [
+    3,
+    4
+  ],
+  "mincut_F": 4,
+  "field_sizes": [
+    2,
+    3,
+    5,
+    7,
+    17,
+    61,
+    257,
+    1031
+  ],
+  "butterfly": true,
+  "time_expand_rounds": 6
+}

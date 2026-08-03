@@ -1,0 +1,17 @@
+{
+  "experiment": "D1-E4",
+  "model": "gaussian AI heterogeneous",
+  "rhos": [
+    0.95,
+    0.85,
+    0.7,
+    0.5
+  ],
+  "E_cen": 2.285431936244765,
+  "Gammas": [
+    0.3,
+    8.0,
+    30
+  ],
+  "eps": 0.05
+}

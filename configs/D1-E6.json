@@ -1,0 +1,15 @@
+{
+  "experiment": "D1-E6",
+  "N": 6,
+  "rho": 0.7950600976206501,
+  "T_rounds": 600,
+  "base_graphs": [
+    "ring",
+    "path",
+    "star",
+    "ER(0.4)",
+    "complete"
+  ],
+  "k": 0,
+  "eps": 0.05
+}

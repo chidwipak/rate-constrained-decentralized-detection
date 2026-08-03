@@ -1,0 +1,23 @@
+{
+  "experiment": "D1-N1",
+  "model": "single Gaussian source relay network",
+  "rho": 0.9,
+  "Gamma_star": 2.5,
+  "topologies": [
+    "complete",
+    "ring",
+    "path",
+    "star",
+    "grid 3x3",
+    "tree",
+    "Erdos-Renyi",
+    "Barabasi-Albert",
+    "Watts-Strogatz",
+    "grid 2x4"
+  ],
+  "n_mc": 400000,
+  "ns": [
+    200,
+    2000
+  ]
+}

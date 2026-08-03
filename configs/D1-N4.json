@@ -1,0 +1,10 @@
+{
+  "experiment": "D1-N4",
+  "base": "ER(30,0.25)",
+  "rho": 0.9,
+  "failure_probs": [
+    0.0,
+    0.95
+  ],
+  "bridge_gamma": 1.0
+}
