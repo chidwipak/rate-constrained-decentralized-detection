@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large / regenerable outputs kept, but caches ignored
+.ipynb_checkpoints/
+*.log
+
+# OS
+.DS_Store
