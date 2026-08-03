@@ -1,0 +1,18 @@
+{
+  "exp_id": "D1-N5",
+  "F": 4,
+  "butterfly_mincut": {
+    "T1": 2,
+    "T2": 2
+  },
+  "butterfly_coding": {
+    "T1": 0.9925,
+    "T2": 0.9825
+  },
+  "butterfly_routing": 1,
+  "rec_te": 1.0,
+  "F_te": 16,
+  "h_te": 5,
+  "theta_k6": 1.53035962306575,
+  "E_meas_k6": 1.529379530069008
+}

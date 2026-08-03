@@ -1,0 +1,70 @@
+{
+  "exp_id": "D1-N1",
+  "names": [
+    "complete",
+    "ring",
+    "path",
+    "star",
+    "grid 3x3",
+    "tree",
+    "Erdos-Renyi",
+    "Barabasi-Albert",
+    "Watts-Strogatz",
+    "grid 2x4"
+  ],
+  "spread_sr": 0.0,
+  "spread_naive": 0.19312130586632714,
+  "max_over": -0.0007606027939303095,
+  "results": {
+    "complete": {
+      "sr": 2.5,
+      "naive": 1.0580729045047745,
+      "single": 0.35714285714285715
+    },
+    "ring": {
+      "sr": 2.5,
+      "naive": 1.575619329599923,
+      "single": 1.25
+    },
+    "path": {
+      "sr": 2.5,
+      "naive": 2.5,
+      "single": 2.5
+    },
+    "star": {
+      "sr": 2.5,
+      "naive": 2.5,
+      "single": 2.5
+    },
+    "grid 3x3": {
+      "sr": 2.5,
+      "naive": 1.575619329599923,
+      "single": 1.25
+    },
+    "tree": {
+      "sr": 2.5,
+      "naive": 2.5,
+      "single": 2.5
+    },
+    "Erdos-Renyi": {
+      "sr": 2.5,
+      "naive": 1.575619329599923,
+      "single": 1.25
+    },
+    "Barabasi-Albert": {
+      "sr": 2.5,
+      "naive": 1.3153494673698236,
+      "single": 0.8333333333333334
+    },
+    "Watts-Strogatz": {
+      "sr": 2.5,
+      "naive": 1.3153494673698236,
+      "single": 0.8333333333333334
+    },
+    "grid 2x4": {
+      "sr": 2.5,
+      "naive": 1.575619329599923,
+      "single": 1.25
+    }
+  }
+}
