@@ -10,3 +10,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Removed from public release
+docs/
+publication/
